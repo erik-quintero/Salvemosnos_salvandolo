@@ -1,5 +1,6 @@
 body{
     background-color: #E7FFFF;
+    width: 100%;
   }
   footer{
     bottom: 0;
@@ -123,8 +124,9 @@ body{
      text-align: center;
    }
    .informacion_ p{
-     font-size: 25px;
+     font-size: 5vw;
      text-align: justify;
+     padding: 20px;
    }
    /* Pie de pagina */
    .pie{
@@ -189,8 +191,9 @@ body{
     text-align: center;
   }
   .informacion_ p{
-    font-size: 25px;
+    font-size: 5vw;
     text-align: justify;
+    padding: 20px;
   }
   /* Pie de pagina */
   .pie{
@@ -256,8 +259,9 @@ body{
     text-align: center;
   }
   .informacion_ p{
-    font-size: 25px;
+    font-size: 5vw;
     text-align: justify;
+    padding: 20px;
   }
   /* Pie de pagina */
   .pie{
@@ -323,8 +327,9 @@ body{
     text-align: center;
   }
   .informacion_ p{
-    font-size: 25px;
+    font-size: 5vw;
     text-align: justify;
+    padding: 20px;
   }
   /* Pie de pagina */
   .pie{
@@ -390,8 +395,9 @@ body{
     text-align: center;
   }
   .informacion_ p{
-    font-size: 25px;
+    font-size: 5vw;
     text-align: justify;
+    padding: 20px;
   }
   /* Pie de pagina */
   .pie{
