@@ -66,11 +66,27 @@ body{
       text-align: center;
     }
     /*  formato para reporte   */
+    .reporte_intro{
+      width: 100%;
+    }
     .reporte{
       color: red;
       text-align: center;
       width: 90%;
       padding-left: 10%;
+    }
+    .rep{
+      color: gray;
+      width: 100%;
+      text-align: center;
+      padding-top: 2%;
+      padding-bottom: 3%;
+    }
+    body{
+      max-width: 100%;
+    }
+    html{
+      max-width: 100%;
     }
  }
 
@@ -140,7 +156,31 @@ body{
      font-size: 20px;
      text-align: center;
    }
+   /*  formato para reporte   */
+   .reporte_intro{
+     width: 100%;
+   }
+   .reporte{
+     color: red;
+     text-align: center;
+     width: 90%;
+     padding-left: 10%;
+   }
+   .rep{
+     color: gray;
+     width: 100%;
+     text-align: center;
+     padding-top: 2%;
+     padding-bottom: 3%;
+   }
+   body{
+     max-width: 100%;
+   }
+   html{
+     max-width: 100%;
+   }
 }
+
 /* Para dispositivos de hasta 800 px */
 @media only screen and (min-device-width: 601px) and (max-device-width: 800px) {
 /* Titulo de la pagina */
@@ -207,7 +247,31 @@ body{
     font-size: 20px;
     text-align: center;
   }
+  /*  formato para reporte   */
+  .reporte_intro{
+    width: 100%;
+  }
+  .reporte{
+    color: red;
+    text-align: center;
+    width: 90%;
+    padding-left: 10%;
+  }
+  .rep{
+    color: gray;
+    width: 100%;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 3%;
+  }
+  body{
+    max-width: 100%;
+  }
+  html{
+    max-width: 100%;
+  }
 }
+
 /* Para dispositivos de hasta 1026 px */
 @media only screen and (min-device-width: 801px) and (max-device-width: 1026px) {
 /* Titulo de la pagina */
@@ -275,7 +339,31 @@ body{
     font-size: 22px;
     text-align: center;
   }
+  /*  formato para reporte   */
+  .reporte_intro{
+    width: 100%;
+  }
+  .reporte{
+    color: red;
+    text-align: center;
+    width: 90%;
+    padding-left: 10%;
+  }
+  .rep{
+    color: gray;
+    width: 100%;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 3%;
+  }
+  body{
+    max-width: 100%;
+  }
+  html{
+    max-width: 100%;
+  }
 }
+
 /* Para dispositivos de hasta 1440 px */
 @media only screen and (min-device-width: 1027px) and (max-device-width: 1440px) {
 /* Titulo de la pagina */
@@ -343,7 +431,31 @@ body{
     font-size: 22px;
     text-align: center;
   }
+  /*  formato para reporte   */
+  .reporte_intro{
+    width: 100%;
+  }
+  .reporte{
+    color: red;
+    text-align: center;
+    width: 90%;
+    padding-left: 10%;
+  }
+  .rep{
+    color: gray;
+    width: 100%;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 3%;
+  }
+  body{
+    max-width: 100%;
+  }
+  html{
+    max-width: 100%;
+  }
 }
+
 /* Para dispositivos de hasta 2560 px */
 @media only screen and (min-device-width: 1441px) and (max-device-width: 2560px) {
 /* Titulo de la pagina */
@@ -413,7 +525,31 @@ body{
     font-size: 22px;
     text-align: center;
   }
+  /*  formato para reporte   */
+  .reporte_intro{
+    width: 100%;
+  }
+  .reporte{
+    color: red;
+    text-align: center;
+    width: 90%;
+    padding-left: 10%;
+  }
+  .rep{
+    color: gray;
+    width: 100%;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 3%;
+  }
+  body{
+    max-width: 100%;
+  }
+  html{
+    max-width: 100%;
+  }
 }
+
                     /* Termino de formato index */
 
 
