@@ -1,6 +1,0 @@
-function randomize(listaRetos) {
-  return listaRetos[Math.floor(Math.random() * listaRetos.length)];
-}
-
-let listaRetos = ['Recoger basura que esta dentro del agua', 'Recoger basura que esta en la arena', 'Evitar el uso de plasticos cerca del agua', 'Tomarse selfie recogiendo basura', 'Toma un video o foto de la parte de playa que has limpiado']
-console.log(randomize(listaRetos));
