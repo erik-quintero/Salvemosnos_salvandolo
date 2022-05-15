@@ -259,9 +259,9 @@ body{
     text-align: center;
   }
   .informacion_ p{
-    font-size: 5vw;
+    font-size: 2vw;
     text-align: justify;
-    padding: 20px;
+    padding: 2%;
   }
   /* Pie de pagina */
   .pie{
@@ -327,9 +327,9 @@ body{
     text-align: center;
   }
   .informacion_ p{
-    font-size: 5vw;
+    font-size: 1.5vw;
     text-align: justify;
-    padding: 20px;
+    padding: 2%;
   }
   /* Pie de pagina */
   .pie{
@@ -395,9 +395,9 @@ body{
     text-align: center;
   }
   .informacion_ p{
-    font-size: 5vw;
+    font-size: 1.5vw;
     text-align: justify;
-    padding: 20px;
+    padding: 2%;
   }
   /* Pie de pagina */
   .pie{
