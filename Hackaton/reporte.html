@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
     <title>SalavemosSalvandolo</title>
 </head>
   <!--todo esto se debe estilizar con css y hacerle las modificaciones requeridas a las class o los identificadores que deseen-->
@@ -15,13 +15,13 @@
             <h1>Salvemos el agua</h1>
         </header>
     </section>
-    <section class="navegacion">
-        <li>
-            <ul> <a href="index.html">Inicio</a> </ul>
-            <ul> <a href="ayuda.html"> como podemos ayudar </a> </ul>
-            <ul> <a href="reporte.html"> Generar reporte </a> </ul>
-        </li>
-    </section>
+    <div class="navegacio">
+      <div class="box">
+        <div class="casilla"> <a href="index.html" class="enlace">Inicio</a> </div>
+        <div class="casilla"> <a href="ayuda.html" class="enlace"> Como podemos ayudar </a> </div>
+        <div class="casilla"> <a href="reporte.html" class="enlace"> Generar reporte </a> </div>
+      </div>
+    </div>
     <div class="reporte_intro">
         <h1>Por que y como generar un reporte</h1>
         <p>Un reporte anonimo puede ayudar a que las autoridades se den cuenta de la falta de vigilancia en zonas de turismo o que puedan ser de gran riesgo para la salud maritima, este reporte es totalmente anonimo y permite lo previamente dicho.
@@ -29,8 +29,8 @@
         </p>
     </div>
     <section class="reporte">
-        <h2>generar reporte</h2>
-        
+        <h2>Generar reporte</h2>
+
         <form action="" class="formulario">
             <input type="text" class="formulario_input">
             <label for="" class="formulario_label">Nombres</label>
@@ -48,7 +48,13 @@
 </body>
 <br>
 <footer>
-        &copy;Innovaccion virtual 2022
-<script src="form.js"></script>
+    <div class="pie">
+      <div class="columna">
+        <div class="copy">
+          &copy;Innovaccion virtual 2022
+        </div>
+      </div>
+    </div>
+    <script src="js/form.js"></script>
 </footer>
 </html>
