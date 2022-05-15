@@ -33,6 +33,22 @@ body{
       padding-bottom: 5px;
       padding-top: 5px;
     }
+	/*Estilos de recibo de formulario*/
+
+.ok {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: #1e6;
+	color: #fff
+}
+.bad {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: #a22;
+	color: #fff;
+}
     .enlace{
         background-color: #FFFFFF;
         color: #190ec1;
