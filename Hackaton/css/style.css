@@ -48,8 +48,9 @@ body{
       text-align: center;
     }
     .informacion_ p{
-      font-size: 25px;
+      font-size: 5vw;
       text-align: justify;
+      padding: 20px;
     }
     /* Pie de pagina */
     .pie{
@@ -62,6 +63,13 @@ body{
     .copy{
       font-size: 20px;
       text-align: center;
+    }
+    /*  formato para reporte   */
+    .reporte{
+      color: red;
+      text-align: center;
+      width: 90%;
+      padding-left: 10%;
     }
  }
 
